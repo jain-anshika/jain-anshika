@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/jain-anshika/jain-anshika/blob/main/Green%20Photo%20Technology%20Facebook%20Cover.jpg"  />
+  <img height="150" alt="coding" src="https://github.com/jain-anshika/jain-anshika/blob/main/Green%20Photo%20Technology%20Facebook%20Cover.jpg"  />
 </div>
 
 ###
