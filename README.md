@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/jain-anshika/count.svg?"  />
+  <img src="Green Photo Technology Facebook Cover.jpg"  />
 </div>
 
 ###
