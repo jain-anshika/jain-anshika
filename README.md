@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="Green Photo Technology Facebook Cover.jpg"  />
+  <img src="./Green Photo Technology Facebook Cover.jpg"  />
 </div>
 
 ###
