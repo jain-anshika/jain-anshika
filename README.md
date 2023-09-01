@@ -1,75 +1,72 @@
-<div align="center">
-  <img height="150" alt="coding" src="[https://github.com/jain-anshika/jain-anshika/blob/main/Green%20Photo%20Technology%20Facebook%20Cover.jpg](https://i.gifer.com/origin/a9/a9176696b8740c402d84b55374ea0107_w200.gif)"  />
-</div>
-
-###
 
 <div align="center">
-  <img src="./Green Photo Technology Facebook Cover.jpg"  />
+<img src="https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif" align="center" style="width: 100%" />
+</div>  
+  <h1 align="center">Hi 👋, I'm Anshika Jain</h1>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jain-anshika/count.svg" />
+</p>
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/QYE7j6R.gif">
+<div align="center"></div>  
+  
+
+- 🌱 I’m currently learning C , PYTHON & JAVA 
+
+- 📫 How to reach me **anshikajain1114@gmail.com**
+
+- ⚡ Fun fact: I use tabs over spaces  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+
+<div align="center">  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 
-###
 
-<h1 align="center">Hey there 👋</h1>
 
-###
 
-<h3 align="left">👩‍💻  About Me</h3>
+</td></tr></table>  
 
-###
+<br/>  
 
-<p align="left">I'm Anshika from India<br><br>- 🔭 I’m CSE student.<br>- 📚 I'm currently learning Java, Python.<br>- ⚡ In my free time I sleep.</p>
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
+## Connect with me  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jain-anshika&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=jain-anshika&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<a href="https://github.com/jain-anshika" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/anshika-jain-85a638255/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-###
+<br/>  
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/anshika-jain-85a638255/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="29" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/anshij1114" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="56" height="29" alt="hackerrank logo"  />
-  </a>
-  <a href="https://discord.com/anshika_jain" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="56" height="29" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/jain_anshika__" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="56" height="29" alt="instagram logo"  />
-  </a>
-</div>
 
-###
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jain-anshika&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
+
+----
