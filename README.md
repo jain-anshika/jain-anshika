@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif" align="center" style="width: 100%" />
+<img src="https://i.gifer.com/J4o.gif" align="center" style="width: 100%" />
 </div>  
   <h1 align="center">Hi 👋, I'm Anshika Jain</h1>
 <p align="center"> 
