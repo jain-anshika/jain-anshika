@@ -54,7 +54,7 @@
 
 
 ## Connect with me  
-<<div align="left">
+<div align="left">
   <a href="https://www.instagram.com/jain_anshika__" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -74,8 +74,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jain-anshika&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jain-anshika&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jain-anshika&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 <br/>  
 
   
@@ -85,4 +87,3 @@
 
 <br />
 <img src="https://raw.githubusercontent.com/jain-anshika/jain-anshika/output/snake.svg" alt="Snake animation" />
-----
