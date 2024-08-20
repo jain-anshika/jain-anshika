@@ -1,49 +1,25 @@
-
+  <h1 align="center">Hi 👋, I'm</h1>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/36126914/154766367-2c3d9c80-3cdc-4790-b15c-7eba5eee9fd2.gif" align="center" style="width: 100%" />
-</div>  
-  <h1 align="center">Hi 👋, I'm Anshika Jain</h1>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jain-anshika/count.svg" />
-</p>
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/QYE7j6R.gif">
-<div align="center"></div>  
-  
 
+![gitartwork](gitartwork.svg)
+</div>  
+
+
+  
 - 🌱 I’m currently learning C , PYTHON & JAVA 
 
 - 📫 How to reach me **anshikajain1114@gmail.com**
-
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-
-###
-
+## My Skill Set 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-</div>
+<table><tr><td>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,python,react,yarn,gcp,git,github,materialui&perline=6)](https://skillicons.dev)
+<div/>
 
 
 
@@ -52,6 +28,10 @@
 
 <br/>  
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jain-anshika/count.svg" />
+</p>
 
 ## Connect with me  
 <div align="left">
@@ -81,10 +61,10 @@
 <br/>  
 
   
-
 <br/>  
 
 
 <br />
 
-![gitartwork](gitartwork.svg)
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
