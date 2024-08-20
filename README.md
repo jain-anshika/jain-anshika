@@ -87,4 +87,4 @@
 
 <br />
 
-![snake gif](https://github.com/jain-anshika/jain-anshika/blob/output/github-contribution-grid-snake.svg)
+![gitartwork](gitartwork.svg)
