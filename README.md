@@ -86,4 +86,4 @@
 
 
 <br />
-<img src="https://raw.githubusercontent.com/jain-anshika/jain-anshika/output/snake.svg" alt="Snake animation" />
+
