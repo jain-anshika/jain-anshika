@@ -6,7 +6,7 @@
 
 
   
-- 🌱 I’m currently learning C , PYTHON & JAVA 
+- 🌱 I’m currently learning BTP Cloud Integration, SAP IBP, S/4 Hana  
 
 - 📫 How to reach me **anshikajain1114@gmail.com**
   
@@ -28,10 +28,7 @@
 
 <br/>  
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jain-anshika/count.svg" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=jain-anshika&color=blue)
 
 ## Connect with me  
 <div align="left">
